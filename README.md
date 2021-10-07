@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning various skills
 - 💞️ I’m looking to collaborate on some projects.
-- 📫 How to reach me : interactwithtushar@gmail.com
+- 📫 You can reach me : interactwithtushar@gmail.com
 
 <!---
 tushar1997/tushar1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
