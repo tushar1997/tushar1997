@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tushar1997
-- 👀 I’m interested in coding
+- 👀 I’m a lead software engineer working with a MNC
 - 🌱 I’m currently learning various skills
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 You can reach me : interactwithtushar@gmail.com
