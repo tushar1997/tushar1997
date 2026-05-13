@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tushar1997
-- 👀 I’m a lead software engineer working with a MNC
-- 🌱 I’m currently learning various skills
-- 💞️ I’m looking to collaborate on some projects.
+- 👀 I’m a lead software developer working with a MNC
+- 🌱 I’m currently learning various skills as i believe life's all about learning new things
 - 📫 You can reach out to me : interactwithtushar@gmail.com
